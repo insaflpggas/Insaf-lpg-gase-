@@ -1,0 +1,6 @@
+{
+  "name": "انصاف ایل پی جی گیس",
+  "description": "انصاف ایل پی جی گیس مینجمنٹ سسٹم - انوائس، گاہک کھاتہ، خالی و بھرے سلنڈر سٹاک، اور فلنگ پلانٹ حساب کتاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
